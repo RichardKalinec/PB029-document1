@@ -4,10 +4,12 @@
 \usepackage{lmodern}
 \usepackage[utf8]{inputenc}
 \usepackage[a4paper, left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
+\usepackage{changepage}
 
 \begin{document}
 \begin{center}
-Životopis
+\Huge
+\textbf{\textit{Životopis}}
 \end{center}	
 \begin{flushleft}
 \bigskip
@@ -25,13 +27,47 @@ yyyyyyyyyyy@zzzzzzz.zzz\\
 \bigskip
 
 \Large
+\textit{\textsf{Osobné údaje\\}}
+\normalsize
+\smallskip
+
+\begin{adjustwidth}{-6pt}{}
+\begin{tabular}{l l}
+	Adresa: & Ulica xx, 962 12 Detva \\
+	Dátum narodenia: & xx.xx.1993
+\end{tabular}
+\end{adjustwidth}
+
+\bigskip
+
+\Large
 \textit{\textsf{Vzdelanie\\}}
 \normalsize
 
 \smallskip
 
-1999 - 2008: 4. Základná škola/Základná škola Júliusa Juraja Thurzu v Detve\\
-2008 - 2012: Gymnázium v Detve\\
-2012 - súčasnosť: Fakulta informatiky Masarykovej univerzity v Brne\\
+\begin{adjustwidth}{-6pt}{}
+\begin{tabular}{l l}
+	1999 - 2008: & 4. Základná škola/Základná škola Júliusa Juraja Thurzu v Detve\\
+	2008 - 2012: & Gymnázium v Detve\\
+	2012 - súčasnosť: & Fakulta informatiky Masarykovej univerzity v Brne\\
+\end{tabular}
+\end{adjustwidth}
+
+\bigskip
+
+\Large
+\textit{\textsf{Jazykové znalosti\\}}
+\normalsize
+
+\smallskip
+
+\begin{adjustwidth}{-6pt}{}
+\begin{tabular}{l l}
+Anglický jazyk: & aktívne slovom aj písmom \\
+Nemecký jazyk: & začiatočník
+\end{tabular}
+\end{adjustwidth}
+
 \end{flushleft}
 \end{document}
