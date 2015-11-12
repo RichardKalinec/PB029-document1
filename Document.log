@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.7)  12 NOV 2015 08:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.7)  12 NOV 2015 08:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -442,26 +442,31 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 35.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 35.
- [1
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 110.
+
+
+(c:/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [1
 
 {c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Document.aux
 ) ) 
 Here is how much of TeX's memory you used:
- 1939 strings out of 493054
- 24805 string characters out of 6138327
- 88907 words of memory out of 5000000
- 5453 multiletter control sequences out of 15000+600000
- 38762 words of font info for 32 fonts, out of 8000000 for 9000
+ 1979 strings out of 493054
+ 25434 string characters out of 6138327
+ 89907 words of memory out of 5000000
+ 5489 multiletter control sequences out of 15000+600000
+ 39081 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,6n,23p,191b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,6n,23p,480b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2015/te
 xmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2015/texmf-dist/fonts/ty
 pe1/public/lm/lmr10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso
-12.pfb>
-Output written on Document.pdf (1 page, 71299 bytes).
+12.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on Document.pdf (1 page, 96187 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 25 PDF objects out of 1000 (max. 8388607)
+ 17 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
