@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.7)  12 NOV 2015 08:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.7)  27 NOV 2015 09:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -452,22 +452,22 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 {c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] (./
 Document.aux) ) 
 Here is how much of TeX's memory you used:
- 1979 strings out of 493054
- 25434 string characters out of 6138327
- 96907 words of memory out of 5000000
- 5489 multiletter control sequences out of 15000+600000
- 39081 words of font info for 33 fonts, out of 8000000 for 9000
+ 1980 strings out of 493054
+ 25450 string characters out of 6138327
+ 94907 words of memory out of 5000000
+ 5490 multiletter control sequences out of 15000+600000
+ 42079 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,6n,23p,6125b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,6n,23p,2232b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/tex
-live/2015/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2015/texmf-d
-ist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/pub
-lic/lm/lmsso12.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
->
-Output written on Document.pdf (4 pages, 116401 bytes).
+live/2015/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2015/texmf-di
+st/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/pu
+blic/lm/lmr10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso12.pfb
+><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on Document.pdf (4 pages, 134049 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 38 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
