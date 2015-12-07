@@ -1,0 +1,56 @@
+\begin{theindex}
+  \providecommand*\lettergroupDefault[1]{}
+  \providecommand*\lettergroup[1]{%
+      \par\textbf{#1}\par
+      \nopagebreak
+  }
+
+  \lettergroupDefault{default}
+  \item \IeC {\v s}pion\IeC {\'a}\IeC {\v z}, \hyperpage{3}
+
+  \indexspace
+
+  \lettergroup{B}
+  \item bezpe\IeC {\v c}nos\IeC {\v t}, \hyperpage{2}, \hyperpage{3}
+
+  \indexspace
+
+  \lettergroup{E}
+  \item Edward Snowden, \hyperpage{2}
+
+  \indexspace
+
+  \lettergroup{G}
+  \item GCHQ, \hyperpage{2}
+  \item Guardian, \hyperpage{2}
+
+  \indexspace
+
+  \lettergroup{K}
+  \item kontrola, \hyperpage{2}, \hyperpage{3}
+  \item kritika, \hyperpage{2}
+
+  \indexspace
+
+  \lettergroup{M}
+  \item mocensk\IeC {\'y} boj, \hyperpage{3}
+
+  \indexspace
+
+  \lettergroup{N}
+  \item n\IeC {\'a}rodn\IeC {\'e} z\IeC {\'a}ujmy, \hyperpage{3}
+  \item NSA, \hyperpage{2}
+
+  \indexspace
+
+  \lettergroup{S}
+  \item selekcia, \hyperpage{3}
+  \item sloboda, \hyperpage{3}
+  \item s\IeC {\'u}kromie, \hyperpage{2}, \hyperpage{3}
+
+  \indexspace
+
+  \lettergroup{Z}
+  \item zneu\IeC {\v z}itie, \hyperpage{2}, \hyperpage{3}
+
+\end{theindex}

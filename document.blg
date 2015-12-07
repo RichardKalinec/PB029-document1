@@ -1,0 +1,14 @@
+[0] Config.pm:327> INFO - This is Biber 2.2
+[0] Config.pm:330> INFO - Logfile is 'document.blg'
+[63] biber-MSWIN:283> INFO - === 
+[64] Biber.pm:334> INFO - Reading 'document.bcf'
+[214] Biber.pm:677> INFO - Found 12 citekeys in bib section 0
+[252] Biber.pm:3054> INFO - Processing section 0
+[293] Biber.pm:3193> INFO - Looking for bibtex format file 'references.bib' for section 0
+[300] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
+[303] bibtex.pm:935> INFO - Found BibTeX data source 'references.bib'
+[515] UCollate.pm:66> INFO - Overriding locale 'sk_SK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[515] UCollate.pm:66> INFO - Overriding locale 'sk_SK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[515] Biber.pm:2931> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'sk_SK'
+[535] bbl.pm:505> INFO - Writing 'document.bbl' with encoding 'UTF-8'
+[537] bbl.pm:596> INFO - Output to document.bbl
