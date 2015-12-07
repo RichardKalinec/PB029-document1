@@ -6,9 +6,21 @@
 \usepackage{changepage}
 \usepackage{microtype}
 \usepackage{hyperref}
-\usepackage[backend=biber]{biblatex}
+\usepackage[
+	backend=biber
+	,style=iso-numeric
+	,language=czech
+	,autolang=other
+	,sortlocale=sk_SK
+]{biblatex}
+%\usepackage[texindy]{imakeidx}
+
 \languageattribute{slovak}{split}
-\addbibresource{references.bib}
+
+\bibliography{references.bib}
+
+%\makeindex[title=Register,columns=2]
+% Koniec preambuly.
 
 \begin{document}
 \begin{center}
@@ -180,6 +192,6 @@ Bude teda veľmi zaujímavé sledovať, ako sa vyvinie do veľkej miery hodnotov
 
 \printbibliography
 
-
+%\printindex
 
 \end{document}
