@@ -1,34 +1,14 @@
-[1] Config.pm:327> INFO - This is Biber 2.2
+[0] Config.pm:327> INFO - This is Biber 2.2
 [1] Config.pm:330> INFO - Logfile is 'document.blg'
-[61] biber-MSWIN:283> INFO - === 
-[62] Biber.pm:334> INFO - Reading 'document.bcf'
-[215] Biber.pm:677> INFO - Found 2 citekeys in bib section 0
-[247] Biber.pm:3054> INFO - Processing section 0
-[278] Biber.pm:3193> INFO - Looking for bibtex format file 'references.bib' for section 0
-[285] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
-[288] bibtex.pm:935> INFO - Found BibTeX data source 'references.bib'
-[289] Utils.pm:147> WARN - Entry techsme1 does not parse correctly
-[290] Utils.pm:147> WARN - Entry techidnes1 does not parse correctly
-[290] Utils.pm:147> WARN - Entry techidnes2 does not parse correctly
-[290] Utils.pm:147> WARN - Entry techsme2 does not parse correctly
-[291] Utils.pm:147> WARN - Entry techidnes3 does not parse correctly
-[291] Utils.pm:147> WARN - Entry techidnes4 does not parse correctly
-[291] Utils.pm:147> WARN - Entry techidnes5 does not parse correctly
-[291] Utils.pm:147> WARN - Entry sme1 does not parse correctly
-[292] Utils.pm:147> WARN - Entry ekonsme1 does not parse correctly
-[292] Utils.pm:147> WARN - Entry sme2 does not parse correctly
-[292] Utils.pm:147> WARN - Entry idnes1 does not parse correctly
-[293] Utils.pm:147> WARN - Entry cnn1 does not parse correctly
-[293] Utils.pm:147> WARN - Entry techsme3 does not parse correctly
-[293] Utils.pm:147> WARN - Entry sme3 does not parse correctly
-[293] Utils.pm:147> WARN - Entry sme4 does not parse correctly
-[294] Utils.pm:147> WARN - Entry sme5 does not parse correctly
-[294] Utils.pm:147> WARN - Entry techsme4 does not parse correctly
-[294] Utils.pm:147> WARN - Entry sme6 does not parse correctly
-[295] Utils.pm:147> WARN - Entry techidnes6 does not parse correctly
-[295] Utils.pm:147> WARN - Entry idnes2 does not parse correctly
-[295] Utils.pm:147> WARN - Entry sme7 does not parse correctly
-[295] Utils.pm:147> WARN - Entry sme8 does not parse correctly
-[311] Utils.pm:163> ERROR - BibTeX subsystem: C:\Users\Richard\AppData\Local\Temp\PDKWqdm6ps\references.bib_4840.utf8, line 18, syntax error: found "author", expected ","
-[311] Biber.pm:107> INFO - WARNINGS: 22
-[311] Biber.pm:111> INFO - ERRORS: 1
+[63] biber-MSWIN:283> INFO - === 
+[64] Biber.pm:334> INFO - Reading 'document.bcf'
+[225] Biber.pm:677> INFO - Found 2 citekeys in bib section 0
+[257] Biber.pm:3054> INFO - Processing section 0
+[287] Biber.pm:3193> INFO - Looking for bibtex format file 'references.bib' for section 0
+[294] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
+[297] bibtex.pm:935> INFO - Found BibTeX data source 'references.bib'
+[369] UCollate.pm:66> INFO - Overriding locale 'sk_SK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[369] UCollate.pm:66> INFO - Overriding locale 'sk_SK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[370] Biber.pm:2931> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale 'sk_SK'
+[375] bbl.pm:505> INFO - Writing 'document.bbl' with encoding 'UTF-8'
+[376] bbl.pm:596> INFO - Output to document.bbl

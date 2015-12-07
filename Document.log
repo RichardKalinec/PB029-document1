@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.12.2)  7 DEC 2015 17:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.12.2)  7 DEC 2015 18:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -657,13 +657,18 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 
 (c:/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
-)))
+)
+
+Package biblatex Warning: 'babel' option is deprecated, use 'autolang' instead.
+
+
+))
 Package biblatex Info: Trying to load language 'slovak'...
 Package biblatex Info: ... file 'slovak.lbx' not found.
 
 
 Package biblatex Warning: Language 'slovak' not supported.
-(biblatex)                Using fallback language 'english' on input line 13.
+(biblatex)                Using fallback language 'english' on input line 17.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -679,20 +684,20 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -728,7 +733,7 @@ LaTeX Font Info:    ... okay on input line 13.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 13.
+LaTeX Info: Redefining \microtypecontext on input line 17.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -743,7 +748,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 \AtBeginShipoutBox=\box26
-Package hyperref Info: Link coloring OFF on input line 13.
+Package hyperref Info: Link coloring OFF on input line 17.
 
 (c:/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -753,9 +758,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count292
 )
-LaTeX Info: Redefining \ref on input line 13.
-LaTeX Info: Redefining \pageref on input line 13.
-LaTeX Info: Redefining \nameref on input line 13.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
 
 (./document.out) (./document.out)
 \@outlinefile=\write4
@@ -769,9 +774,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'document.bbl' found.
  (./document.bbl)
-Package biblatex Info: Reference section=0 on input line 13.
-Package biblatex Info: Reference segment=0 on input line 13.
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 22.
+Package biblatex Info: Reference section=0 on input line 17.
+Package biblatex Info: Reference segment=0 on input line 17.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 26.
 
 (c:/texlive/2015/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -781,10 +786,10 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 45.
+(Font)              <7> on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 45.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 136.
+(Font)              <5> on input line 49.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 140.
 
 
 (c:/texlive/2015/texmf-dist/tex/latex/base/t1cmtt.fd
@@ -796,23 +801,13 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             See the microtype manual for details.
  [1
 
-{c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Citation 'nsa' on page 2 undefined on input line 149.
-
-
-LaTeX Warning: Citation 'gchq' on page 2 undefined on input line 149.
-
-[2]
-
-LaTeX Warning: Empty bibliography on input line 173.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
+{c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
  (./document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
 Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -827,27 +822,28 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'document.run.xml'.
 \openout1 = `document.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 12571 strings out of 493054
- 205331 string characters out of 6138327
- 691558 words of memory out of 5000000
- 15920 multiletter control sequences out of 15000+600000
- 12858 words of font info for 60 fonts, out of 8000000 for 9000
+ 12603 strings out of 493054
+ 205857 string characters out of 6138327
+ 691818 words of memory out of 5000000
+ 15941 multiletter control sequences out of 15000+600000
+ 14550 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,6n,35p,2236b,1462s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,6n,45p,2236b,1462s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texl
 ive/2015/texmf-dist/fonts/type1/public/cm-super/sfbi2488.pfb><c:/texlive/2015/t
-exmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2015/texmf-dist/
-fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2015/texmf-dist/fonts/type
-1/public/cm-super/sfrm1200.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/c
-m-super/sfsi1440.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sf
-tt1000.pfb>
-Output written on document.pdf (3 pages, 130492 bytes).
+exmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2015/texmf-dist/
+fonts/type1/public/cm-super/sfcc1000.pfb><c:/texlive/2015/texmf-dist/fonts/type
+1/public/cm-super/sfrm1000.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/c
+m-super/sfrm1200.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sf
+si1440.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb
+><c:/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on document.pdf (3 pages, 167649 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
- 11265 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 66 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 15361 words of extra memory for PDF output out of 17280 (max. 10000000)
 
